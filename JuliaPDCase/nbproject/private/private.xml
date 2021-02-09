@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Julia/Documents/NetBeansProjects/JuliaPDCase/src/ch/makery/address/view/RootLayoutController.java</file>
+            <file>file:/C:/Users/Julia/Documents/NetBeansProjects/JuliaPDCase/src/juliapdcase/address/util/AlertFactory.java</file>
+            <file>file:/C:/Users/Julia/Documents/NetBeansProjects/JuliaPDCase/src/juliapdcase/address/MainApp.java</file>
+            <file>file:/C:/Users/Julia/Documents/NetBeansProjects/JuliaPDCase/src/juliapdcase/address/LayoutFactory.java</file>
+            <file>file:/C:/Users/Julia/Documents/NetBeansProjects/JuliaPDCase/src/juliapdcase/address/LayoutManager.java</file>
+            <file>file:/C:/Users/Julia/Documents/NetBeansProjects/JuliaPDCase/src/juliapdcase/address/util/LocalDateAdapter.java</file>
+            <file>file:/C:/Users/Julia/Documents/NetBeansProjects/JuliaPDCase/src/ch/makery/address/view/PersonOverviewController.java</file>
+            <file>file:/C:/Users/Julia/Documents/NetBeansProjects/JuliaPDCase/src/juliapdcase/address/model/PersonListWrapper.java</file>
+            <file>file:/C:/Users/Julia/Documents/NetBeansProjects/JuliaPDCase/src/juliapdcase/address/util/xml/UnmarshalException.java</file>
+            <file>file:/C:/Users/Julia/Documents/NetBeansProjects/JuliaPDCase/src/juliapdcase/address/util/xml/XmlHandler.java</file>
+            <file>file:/C:/Users/Julia/Documents/NetBeansProjects/JuliaPDCase/src/juliapdcase/address/util/DateUtil.java</file>
+            <file>file:/C:/Users/Julia/Documents/NetBeansProjects/JuliaPDCase/src/ch/makery/address/view/Controller.java</file>
+            <file>file:/C:/Users/Julia/Documents/NetBeansProjects/JuliaPDCase/src/juliapdcase/address/util/xml/UnboundableClassException.java</file>
+            <file>file:/C:/Users/Julia/Documents/NetBeansProjects/JuliaPDCase/src/juliapdcase/address/percistency/PersonDAO.java</file>
+            <file>file:/C:/Users/Julia/Documents/NetBeansProjects/JuliaPDCase/src/ch/makery/address/view/PersonEditDialogController.java</file>
+            <file>file:/C:/Users/Julia/Documents/NetBeansProjects/JuliaPDCase/src/juliapdcase/address/util/xml/MarshallerCreationException.java</file>
+            <file>file:/C:/Users/Julia/Documents/NetBeansProjects/JuliaPDCase/src/juliapdcase/address/percistency/DAO.java</file>
+            <file>file:/C:/Users/Julia/Documents/NetBeansProjects/JuliaPDCase/src/juliapdcase/address/util/xml/UnmarshallerCreationException.java</file>
+            <file>file:/C:/Users/Julia/Documents/NetBeansProjects/JuliaPDCase/src/ch/makery/address/view/DarkTheme.css</file>
+            <file>file:/C:/Users/Julia/Documents/NetBeansProjects/JuliaPDCase/src/juliapdcase/address/model/Person.java</file>
+            <file>file:/C:/Users/Julia/Documents/NetBeansProjects/JuliaPDCase/src/juliapdcase/address/util/xml/MarshalException.java</file>
+            <file>file:/C:/Users/Julia/Documents/NetBeansProjects/JuliaPDCase/src/juliapdcase/address/util/xml/XmlUtil.java</file>
+        </group>
+    </open-files>
+</project-private>

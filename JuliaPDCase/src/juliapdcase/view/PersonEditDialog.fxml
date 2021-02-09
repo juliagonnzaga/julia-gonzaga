@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.RowConstraints?>
+
+<AnchorPane id="AnchorPane" prefHeight="400.0" prefWidth="600.0" styleClass="background" stylesheets="@DarkTheme.css" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="juliapdcase.view.PersonEditDialogController">
+   <children>
+      <GridPane layoutX="14.0" layoutY="27.0" prefHeight="337.0" prefWidth="580.0" AnchorPane.leftAnchor="10.0" AnchorPane.rightAnchor="10.0" AnchorPane.topAnchor="10.0">
+        <columnConstraints>
+          <ColumnConstraints hgrow="SOMETIMES" maxWidth="288.79998779296875" minWidth="10.0" prefWidth="158.39996337890625" />
+          <ColumnConstraints hgrow="SOMETIMES" maxWidth="450.4000244140625" minWidth="10.0" prefWidth="433.60003662109375" />
+        </columnConstraints>
+        <rowConstraints>
+            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+          <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+          <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+          <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+        </rowConstraints>
+         <children>
+            <Label text="Nome Paciente" />
+            <Label text="Sobrenome" GridPane.rowIndex="1" />
+            <Label text="Id Plano de Saúde" GridPane.rowIndex="2" />
+            <Label text="Id Especialidade" GridPane.rowIndex="3" />
+            <Label text="Número Carteira" GridPane.rowIndex="4" />
+            <Label text="Data de Nascimento" GridPane.rowIndex="5" />
+            <TextField id="firstNameField" fx:id="nomePacienteField" GridPane.columnIndex="1" />
+            <TextField id="lastNameField" fx:id="sobrenomePacienteField" GridPane.columnIndex="1" GridPane.rowIndex="1" />
+            <TextField id="streetField" fx:id="idPlanoDeSaudeField" GridPane.columnIndex="1" GridPane.rowIndex="2" />
+            <TextField id="postalCodeField" fx:id="idEspecialidadeField" GridPane.columnIndex="1" GridPane.rowIndex="3" />
+            <TextField id="cityField" fx:id="numeroCarteiraPlanoField" GridPane.columnIndex="1" GridPane.rowIndex="4" />
+            <TextField id="birthdayField" fx:id="birthdayField" GridPane.columnIndex="1" GridPane.rowIndex="5" />
+         </children>
+      </GridPane>
+      <HBox layoutX="399.0" layoutY="348.0" prefHeight="41.0" prefWidth="186.0" spacing="10.0" AnchorPane.bottomAnchor="10.399999999999977" AnchorPane.rightAnchor="14.600000000000023">
+         <children>
+            <Button mnemonicParsing="false" onAction="#handleOk" prefHeight="19.0" prefWidth="85.0" text="OK" />
+            <Button mnemonicParsing="false" onAction="#handleCancel" prefHeight="19.0" prefWidth="85.0" text="Sair" />
+         </children>
+      </HBox>
+   </children>
+</AnchorPane>
